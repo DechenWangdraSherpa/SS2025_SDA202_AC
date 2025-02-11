@@ -1,2 +1,3 @@
-#Hotel Booking App
-##Manager: Pulu and Sherpa
+# Hotel Booking App
+
+## Manager: Pulu and Sherpa
